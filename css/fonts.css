@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Big Caslon Bold';
+  src: url('../fonts/Big_Caslon_FB_Bold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Big_Caslon_FB_Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/BigCaslonFB-Bold.woff') 	format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/BigCaslonFB-Bold.ttf')  	format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/BigCaslonFB-Bold.svg') 	format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Avenir Medium';
+  src: url('../fonts/Avenir-Medium.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Avenir-Medium.woff2') 	format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Avenir-Medium.woff') 	format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Avenir-Medium.ttf')  	format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Avenir-Medium.svg') 	format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Avenir Medium Oblique';
+  src: url('../fonts/Avenir-MediumOblique.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Avenir-MediumOblique.woff2') 	format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Avenir-MediumOblique.woff') 	format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Avenir-MediumOblique.ttf')  	format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Avenir-MediumOblique.svg') 	format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Avenir Black';
+  src: url('../fonts/Avenir-Black.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Avenir-Black.woff2') 	format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Avenir-Black.woff') 	format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Avenir-Black.ttf')  	format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Avenir-Black.svg') 	format('svg'); /* Legacy iOS */
+}
